@@ -10,3 +10,5 @@
 ## How to create a repsonsive component w/o media queries
 
 ## How to build a small component using CSS Grid
+
+## How to decide if Flexbox vs Grid
