@@ -12,3 +12,5 @@
 ## How to build a small component using CSS Grid
 
 ## How to decide if Flexbox vs Grid
+
+## Vertically centering items with CSS Grid
